@@ -1,0 +1,19 @@
+{
+  "name": "scribbleapp-windows",
+  "version": "0.0.1",
+  "description": "This is the Windows version of ScribbleApp",
+  "main": "vendor/electron/main.js",
+  "scripts": {
+    "test": "run"
+  },
+  "author": "Scribble Nerd",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^5.0.6",
+    "electron-builder": "^21.1.0",
+    "git": "^0.1.5"
+  },
+  "dependencies": {
+    "electron-updater": "^4.1.2"
+  }
+}
