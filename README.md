@@ -1,5 +1,4 @@
-# ScribbleApp
-# ***Beta Release!***
+# ScribbleApp ***Beta Release!***
 
 ### About
 
